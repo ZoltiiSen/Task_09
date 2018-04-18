@@ -1,0 +1,9 @@
+html, body, .nin {
+  height: 100%;
+}
+.nin {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 230px;
+}
